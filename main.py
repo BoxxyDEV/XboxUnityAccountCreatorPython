@@ -1,7 +1,4 @@
 # This script was made by boxuga and xbox unity no hate to you your account creation method is very insecure
-from ast import Break
-from operator import indexOf
-from urllib import request
 import requests
 
 usrname = input("Please enter your Username: ")
